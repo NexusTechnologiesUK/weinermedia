@@ -12,3 +12,5 @@ Nexus Technologies Contribution
 Nexus Technologies designed and developed the complete WordPress website, delivering a responsive, SEO-optimized, and performance-focused solution that enhances the brand's online presence, improves user experience, and provides a scalable platform for digital publishing and ministry outreach.
 
 https://weinermedia.com/
+
+![Weiner Media Preview](./weinermedia.jpg)
